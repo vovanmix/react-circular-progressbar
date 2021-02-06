@@ -1,5 +1,5 @@
 {
-  "name": "react-circular-progressbar",
+  "name": "vovanmix-react-circular-progressbar",
   "version": "2.0.3",
   "description": "A circular progress indicator component",
   "author": "Kevin Qi <iqnivek@gmail.com>",
@@ -10,7 +10,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/kevinsqi/react-circular-progressbar.git",
+  "repository": "https://github.com/vovanmix/react-circular-progressbar/blob/master/package.json",
   "license": "MIT",
   "keywords": [
     "progressbar",
@@ -52,6 +52,6 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0 || ^16.0.0"
+    "react": "^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0"
   }
 }
